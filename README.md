@@ -1,6 +1,6 @@
-### Olá! Eu sou o Klaus Wilken, um Cientista de Dados em desenvolvimento
+### Olá! Eu sou o Klaus Wilken, um Cientista de Dados em desenvolvimento.
 
-- 🌱 Estou estudando Estatística, Machine Learning, SQL, R e Python.
+- 🌱 Estou estudando Estatística, Machine Learning, SQL, R e Python
 - 😄 Pronomes: Ele/Dele
 
 
