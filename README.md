@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=klauswilk&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-## 
+## Linguagens
  
 </div>
           
@@ -20,7 +20,7 @@
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
    </div>
 
-##
+##Links das redes sociais
 
 
 <div>
