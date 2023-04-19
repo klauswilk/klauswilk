@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Klaus Wilken, um Cientista de Dados em desenvolvimento
 
 - 🌱 Estou estudando Estatística, Machine Learning, SQL, R e Python.
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 
 <div>
